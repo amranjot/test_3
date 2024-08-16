@@ -29,7 +29,7 @@ git pull
   * docstore_path: The path to the docstore.json file.
 
 
-###### Run scripts (monitoring.py and upload_and_delete.py)
+### Run scripts (monitoring.py and upload_and_delete.py)
 * python3 script/monitoring.py
 * python3 script/upload_and_delete.py
 
